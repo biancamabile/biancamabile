@@ -1,5 +1,10 @@
-### Hi there 👋
+### Oie, tudo bem?😸
 
+### Meu nome é ✨Bianca✨
+
+### 🔭 Estou realizando um curso no Alura sobre linguagem de programação.
+### 🖱️ Já realizei alguns projetos envolvendo programção na plataforma Scratch e P5.JS.
+### 💬 Este perfil será utilizado para o compartilhamento de alguns projetos.
 <!--
 **biancamabile/biancamabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
