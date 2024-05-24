@@ -5,6 +5,7 @@
 ### 🔭 Estou realizando um curso no Alura sobre linguagem de programação.
 ### 🖱️ Já realizei alguns projetos envolvendo programção na plataforma Scratch e P5.JS.
 ### 💬 Este perfil será utilizado para o compartilhamento de alguns projetos.
+![](https://media1.tenor.com/m/uHqfwoa-ayIAAAAC/spongebob-squarepants-nickelodeon.gif)
 <!--
 **biancamabile/biancamabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
